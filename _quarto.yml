@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Prof. Garlic's Courses"
+  title: "Prof. Garlic's Courses - Fall 2024"
   navbar:
     left:
       - href: index.qmd
