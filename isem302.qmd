@@ -1,0 +1,756 @@
+---
+title: "Telling Stories, Selling Stories
+        Lecture Notes, Fall 2024"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    smooth-scroll: true
+    link-external-newwindow: true
+---
+
+# August 22, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Update on Canvas
+
+-   Discuss Participation
+
+-   Documentary Example
+
+-   Meet with Me
+
+### Update on Canvas
+
+The Canvas site should be ready by tomorrow with a link to the survey.
+
+### Participation
+
+-   Submit log via Canvas every week
+
+-   Spreadsheet format sample will be posted on Canvas.
+
+### Documentary Example
+
+-   Thin Blue Line
+
+    [Thin Blue Line Trailer](https://www.youtube.com/watch?v=dNL5A4D0G4g&t=6s)
+
+# August 27, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Participation Logs
+
+-   Review of Survey Data
+
+-   Meet with Me (contd.)
+
+-   Textbook Introduction Overview
+
+### Participation Logs
+
+-   Review example
+
+-   Making up Missed Classes
+
+### Review of Survey Data
+
+-   92% somewhat or very familiar with subject area
+
+-   Favorite Book
+
+![](images/constant_gardener_book.jpeg)\
+
+### Meet with Me (contd.)
+
+-   What would be most useful to you in this course?
+
+### Textbook Introduction Overview
+
+-   Semiotic approach
+
+    -   Semiotics - the study of meaningmaking processes
+
+    -   Narratives - series of events, meaningfully connected by time and cause
+
+    -   Stories - events, environments (setting), characters
+
+### [![](images/constant_gardener_film.webp)](https://www.youtube.com/watch?v=r4iTjavIkbk)
+
+-   Genre - why does it matter?
+
+    -   Categorization
+
+    -   Understanding
+
+# August 29, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Syllabus Changes
+
+-   Review of Genre
+
+-   Plot - Chapter 2 Textbook
+
+### Syllabus Changes
+
+-   Incorporated Hallmarks
+
+-   Revamped topics based on student feedback
+
+### Review of Genre
+
+-   Predictable yet dynamic
+
+-   Additional Student Questions/Responses:
+
+    -   Why are genres useful? They can help keep a storyteller on track and free from distractions.
+
+    -   Is the trend of mixing genres going to lead to a genre overload?
+
+    -   How are genres determined?
+
+    -   Is there value in leaving a genre unclear, i.e., plot twist?
+
+### Plot
+
+-   Story - set of events in the storyworld
+
+-   Plot - the arrangement of the sequence of events
+
+-   "Emplotment"
+
+    -   Sequence of events
+
+    -   Relevance - providing/withholding information relevant to the story
+
+::: callout-note
+## Phillips Parallel Lines Stories (Ads)
+
+"What is that?" \
+"A Unicorn."\
+"Never seen one up close before."\
+"Beautiful."\
+"Get away. Get Away."\
+"I'm sorry."
+:::
+
+[El Secreto de Mateo](https://vimeo.com/629147588)
+
+[The Gift](https://vimeo.com/23345007)
+
+-   Typical, Western Story Progression (Beginning, Middle, End)
+
+    -   Chronological
+
+    -   Overcoming the Monster
+
+    -   Hero's Journey (The Quest)
+
+    -   Rags to Riches (Horatio Alger)
+
+    -   Comedy
+
+    -   Tragedy
+
+    -   Voyage and Return
+
+    -   Rebirth
+
+-   Conflict-Based Stories
+
+    -   Protaganist (fighting for) / Antagonist (fighting against)
+
+        ![five-act structure, image courtesy of backstage.com](images/plot_diagram_article_aligned@3x.png)\
+
+-   Epiphany Stories
+
+    ![epiphany story structure, image courtesy of ccea.org.uk](images/ephiphany_story_structure.png){width="839"}\
+
+-   Captain Marvel
+
+::: {.callout-note icon="false"}
+## After crashing an experimental aircraft, Air Force pilot Carol Danvers is discovered by the Kree and trained as a member of the elite Starforce Military under the command of her mentor Yon-Rogg. Six years later, after escaping to Earth while under attack by the Skrulls, Danvers begins to discover there's more to her past. With help from S.H.I.E.L.D. agent Nick Fury, they set out to unravel the truth.—Blazer346
+
+<https://www.imdb.com/title/tt4154664/>
+:::
+
+-   Other Examples?
+
+# September 3, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Thursday Class
+
+-   Plot Discussion (contd.)
+
+-   Setting - Chapter 3 Textbook
+
+#### Setting
+
+-   Around the World in Eighty Days (2021) - animated
+    -   <https://www.imdb.com/title/tt0849426/>
+
+# September 10, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Thursday Class
+
+-   Characterization
+
+### Characterization
+
+#### Individuation - real humans or by extrapolation
+
+-   Physical features
+
+-   Mental state
+
+-   Behaviors / habits
+
+#### Types
+
+-   Stereotypes
+
+-   Flat / round
+
+-   Dynamic / static
+
+#### Class Exercise
+
+-   Read Castle 4 by Edith Perlman
+
+<https://www.aqreview.org/aqr-vol-26-number-3-and-4-fallwinter-2009/castle-4-edith-pearlman>
+
+-   Choose 3 characters
+
+-   Explain characterization and types for each
+
+# September 17, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review and Questions
+
+-   Themes
+
+### Review and Questions
+
+Question:
+
+Would the term archetypes be more appropriate to use than stereotypes because the negative connotations to the word sterotype? Or is character archtype a different thing than a characters stereotype?
+
+### Themes
+
+Definitions
+
+-   theme: "meaning identified by an interpreter"
+
+-   ideology - "interconnected beliefs, ideas, values, and norms"
+
+-   morality - "thesis" author / creator is attempted to persuade interpreters to accept
+
+Morality
+
+-   concealed
+
+-   committed
+
+-   critical
+
+-   ambiguous
+
+Short Story: Hemingway, Cat in the Rain
+
+![](images/hemingway_cat.png)
+
+<https://archive.org/details/ernesthemingwaycatintherain>
+
+Should stories be used to create social change?
+
+![](images/single_story.png)
+
+TED Talk:
+
+https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story
+
+# September 19, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Themes and Overall Review
+
+-   One Minute Feedback
+
+-   Upcoming Weeks
+
+### Themes and Overall Review
+
+-   Themes: theme, ideology, morality
+
+-   Stories for social and behavioral change
+
+    Sand Castles
+
+![](images/Sand%20Castles_film.png){fig-alt="thumbnail with girl on sand"}
+
+https://www.youtube.com/watch?v=bcClX3kg2dw
+
+-   Plot
+
+-   Setting
+
+-   Characterization
+
+### One Minute Feedback
+
+-   What is working for you in this course?
+
+-   What is not working for you in this course?
+
+### Upcoming Weeks
+
+-   Story Analysis Assignment
+
+-   No more textbook: check Canvas
+
+# September 24, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   One Minute Feedback Review
+
+-   Compelling Stories
+
+### One Minute Feedback Review
+
+-   Question and answer per week (not per class)
+
+-   Advance notice of readings and videos
+
+-   Writing own stories with peer-review
+
+### Compelling Stories
+
+-   "write for the ear, not the eye"
+
+-   in-class practice: choose from *The Story Factor*, p. 2
+
+#### Telling Compelling Oral Stories
+
+-   The Moth: <https://www.youtube.com/watch?v=5rJEUhZ0VzQ>
+
+-   What components do you notice?
+
+-   in-class practice
+
+# September 26, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Career Fair
+
+-   Policy Story Link in Canvas
+
+-   Compelling Stories (contd.)
+
+-   Talk about Story Analysis Assignment
+
+### Career Fair
+
+![](images/career-fair.png)
+
+### Policy Story Link in Canvas
+
+-   Make sure logged in to Jefferson account
+
+### Compelling Stories
+
+-   Why tell stories at work?
+
+    -   Influence the meaning of facts
+
+    -   Trust and Faith helps the work outlast you
+
+::: {.callout-note icon="false"}
+## "Before anyone allows you to influence them, they want to know, “Who are you and why are you here?” If you don’t take the time to give a positive answer to these questions, they will make up their own answers – usually negative. It is human nature to expect that anyone out to influence others has something to gain. Most people subconsciously assume your gain will mean their loss. This is human nature. We instinctually erect barriers and suspicions to protect ourselves. You need to tell a story that demonstrates you are the kind of person people can trust. "
+:::
+
+*The Story Factor* (p. 3)
+
+-   Compelling Story Strategies
+
+```         
+1.   Story first, facts after
+```
+
+```         
+2.   Less is More - distill to key points
+```
+
+![](images/less-is-more-building.png)
+
+<https://www.dwell.com/article/ludwig-mies-van-der-rohe-architect-19dd30ba>
+
+```         
+3.  Storyboarding to focus on the "wood" not the trees
+```
+
+![](images/storyboarding-medium.png)
+
+Marketing Example - <https://uxdesign.cc/how-to-storyboard-experiences-fc051e2bc04d>
+
+Multimedia Journalism Example - <https://multimedia.journalism.berkeley.edu/tutorials/start-to-finish-storyboarding/>
+
+```         
+4.  Use imagery
+```
+
+*Version 1*
+
+A young child accidentally splashed bleach into their eye while playing. The child cried out in pain, but their older sibling hesitated to seek help. They were worried that they would get in trouble for not watching the child closely enough. After a few tense moments, they decided to rinse the child’s eye with water instead of going to the emergency room.
+
+*Version 2*
+
+In a bright kitchen, a young child accidentally splashed bleach into their eye, the sharp sting making tears flow down their cheeks. The air filled with the harsh smell of chemicals as the child cried out in pain. Their older sibling stood frozen, heart racing, torn between the urgency of seeking help and the fear of getting in trouble for not watching closely enough. The clock ticked loudly, each second stretching painfully as they weighed their options. Finally, with a deep breath, they rushed to the sink, turning on the cold water, hoping it would wash away both the bleach and their worries.\
+
+-   Storyboard Exercise
+
+    -   Finish the above story with an ending of your choice
+    -   Focus on imagery you want to evoke reader / viewer / listener senses
+
+### Talk about Story Analysis Assignment
+
+-   See Canvas
+
+# October 1, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Career Fair Follow Up
+
+-   Persuasive Stories
+
+-   Story Analysis Workshop
+
+### Career Fair Follow Up
+
+-   Thoughts?
+
+### Persuasive Stories
+
+-   6 Rules for Persuasive Storytelling <https://www.nngroup.com/articles/persuasive-storytelling/>
+
+-   Lawyer Example (Canvas)
+
+-   Stand Up to Cancer
+
+    {{< video https://www.youtube.com/watch?v=KDZ--Tb09mk >}}
+
+    More info: <https://news.aa.com/news/news-details/2024/American-Airlines-and-Stand-Up-To-Cancer-SU2C-campaign-takes-off-to-accelerate-funding-for-cancer-research-COMM-VOL-08/default.aspx>
+
+### Story Analysis Q & A
+
+# October 3, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Persuasive Stories (contd.)
+
+-   Story Analysis Workshop
+
+### Persuasive Stories
+
+#### Embedding Facts in Stories
+
+-   Strong facts
+
+-   Weak facts
+
+-   Examples
+
+*Trulicity Facts and Ad*
+
+Facts: <https://www.goodrx.com/trulicity/what-is>
+
+Ad:
+
+![](images/trulicity.png)
+
+{{< video https://www.youtube.com/watch?v=xipiotOLGDY>}}
+
+*Student Choice (Ad)*
+
+#### Writing a Commercial Video Script
+
+{{< video https://www.youtube.com/watch?v=DDlUVbQTsso >}}
+
+### Story Analysis Workshop
+
+# October 8, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Storytelling Ethics
+-   Research Logs
+
+### 
+
+### Storytelling Ethics
+
+#### Telling Stories from Real Life
+
+-   Queensburg and Brooks (2010) Recommendations
+
+![](images/ethics-of-stories.png){fig-alt="cover page chapter on ethics of stories in queensburg and brooks, 2010"}
+
+-   Henrietta Lacks Example
+
+Trailer for Film
+
+{{< video https://www.youtube.com/watch?v=X-jxEX1XQpY >}}
+
+<https://www.youtube.com/watch?v=X-jxEX1XQpY>
+
+Excerpt
+
+![](images/immortal-henrietta-excerpt.png){fig-alt="page from immortal life of henrietta lacks book"}
+
+Dialect
+
+::: callout-note
+## "I’ve done my best to capture the language with which each person spoke and wrote: dialogue appears in native dialects; passages from diaries and other personal writings are quoted exactly as written.
+
+## As one of Henrietta’s relatives said to me, 'If you pretty up how people spoke and change the things they said, that’s dishonest. It’s taking away their lives, their experiences, and their selves.'
+
+## In many places I’ve adopted the words interviewees used to describe their worlds and experiences. In doing so, I’ve used the language of their times and backgrounds, including words such as colored.
+
+## Members of the Lacks family often referred to Johns Hopkins as 'John Hopkin,' and I’ve kept their usage when they’re speaking. Anything written in the first person in Deborah Lacks’s voice is a quote of her speaking, edited for length and occasionally clarity."
+:::
+
+{{< video https://www.youtube.com/watch?v=MF6HrEkZMOo >}}
+
+# October 10, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Research Logs for Final Project
+-   Storytelling Ethics - (Dis)ability
+-   Ethical Storytelling Practice
+
+### Research Logs for Final Project
+
+-   Final project overview
+-   What is a research log?
+
+### Storytelling Ethics - (Dis)ability
+
+-   Visual representations of persons with disabilities
+
+    -   Student Example: Assume that I can
+
+{{< video https://youtu.be/9HpLhxMFJR8?si=kFP1tml7VLBc4PUC >}}
+
+-   Language / terminlogy
+-   Accessible stories
+    -   closed captioning
+    -   flashing lights
+    -   what else?
+-   Let's critique: Project RTR - Ready to Run {{< video https://youtu.be/5KBxzVk_Nh8?si=LStJfnup9BIh9ndm >}}
+
+### Ethical Storytelling Practice
+
+-   What additional questions would you ask?
+-   What recommendations would you make to *Fast 'n Ready Prosthetics*?
+-   What overacharching story would you tell your superiors?
+
+# October 17, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Grading Update
+-   Planning Stories
+-   Planning Practice
+
+### Grading Update
+
+-   handwritten comments to come
+
+### Planning Stories
+
+#### Crafting the Story
+
+<https://hbr.org/2023/02/your-strategy-needs-a-story>
+
+1.  Determine factual context
+2.  Draft
+3.  Test
+4.  Redraft
+5.  Deploy
+
+#### Deploying the Story
+
+-   Which media for what purpose?
+-   Managing multiple media channels
+
+HubSpot Marketing Ad
+
+[hubspot.com/marketers](https://www.hubspot.com/marketers?utm_source=Wifi-Inflight&utm_medium=paid_brandstrategy%20utm_campaign=BrandStrategy_Awareness_EN_NAM_NAM_GBC_OOH_Wifi-Inflight_MarketingHub-Q4-2024_AmericanAirlines_National_Leads-Hero-30)
+
+### Planning Practice
+
+PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
+
+# October 22, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Office Hours Change
+-   Audience Engagement
+-   Final Project Workshop
+
+### Office Hours Change
+
+-   by appointment in-person or zoom
+
+### Audience Engagement
+
+#### Audience Measurement
+
+| ***Media Form*** | ***Ratings Provider*** | ***Description*** |
+|------------------|-------------------|-----------------------------------|
+| **Books** | Goodreads | User-generated ratings and reviews for books. |
+|  | NY Times Best Sellers | "Authoritatively ranked lists of books sold in the United States, sorted by format and genre." |
+| **Podcasts** | Podchaser | Ratings and reviews specific to podcast episodes and shows. |
+|  | Apple Podcasts | User ratings and reviews for podcasts on Apple’s platform. |
+| **Television Shows** | Nielsen Ratings | Measures viewership and demographics for TV programs. |
+|  | Rotten Tomatoes (TV section) | Aggregated critic and audience scores for TV shows. |
+| **Advertisements** | Admeter | Measures viewer reactions to TV commercials. |
+|  | Nielsen Digital Ad Ratings | Tracks digital ad performance across platforms. |
+| **Films** | Rotten Tomatoes | Aggregated critic and audience ratings for movies. |
+|  | IMDb | User ratings and reviews for films. |
+| **Social Media** | Hootsuite | Analyzes engagement metrics across social media platforms. |
+|  |  |  |
+
+-   NY Times Best Sellers
+
+<https://www.nytimes.com/books/best-sellers/>
+
+-   Podchaser
+
+<https://www.podchaser.com/podcasts>
+
+-   Nielsen TV Ratings (Nielsen Media Ratings)
+
+<https://www.nielsen.com/>
+
+-   Social Media - YouTube Analytics Example
+
+{{< video https://www.youtube.com/watch?v=vJWaYMzpGjc >}}
+
+Ratings Exercise:
+
+<https://blog.hubspot.com/marketing/youtube-analytics>
+
+-   Choose one and summarize on the board
+
+### Final Project Workshop
+
+The P Process
+
+![**The P Process** ](images/p-process.png){fig-alt="large p with steps of process"}
+
+1.  Inquire
+2.  Design Strategy
+3.  Create and Test
+4.  Mobilize & Monitor
+5.  Evaluate & Evolve
+
+\< https://thecompassforsbc.org/sbcc-tools/pprocess \>
+
+PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
+
+# October 24, 2024 (Thursday)
+
+## Schedule for Today
+
+-   People / Power Media Fest
+-   Audience Engagement (contd.)
+-   Final Project Workshop
+
+### People / Power Media Fest
+
+-   This Saturday, 11 am to 5 pm
+
+-   Free admission if volunteer
+
+-   <https://www.ppmfest.org/forum>
+
+![](images/power-media.png){fig-alt="description of activities at power media fest"}
+
+### Audience Engagement
+
+#### The P Process
+
+![](images/p-process.png){fig-alt="p-process icon with steps"}
+
+### Final Project Workshop
+
+::: callout-note
+## PROBLEM / ISSUE   – \>   BEHAVIOR CHANGE   – \>   STORY PLAN
+:::
+
+#### Examples
+
+##### Videos
+
+Animated Public Information Campaign
+
+*Dumb Ways to Die*
+
+<https://www.youtube.com/watch?v=IJNR2EpS0jw>
+
+{{< video https://www.youtube.com/watch?v=IJNR2EpS0jw >}}
+
+Personal Story Public Information Video
+
+*Drowning doesn't look like drowning*
+
+<https://www.youtube.com/watch?v=aeqxKGQ_BJg&t=335s>
+
+{{< video https://www.youtube.com/watch?v=aeqxKGQ_BJg&t=335s >}}
+
+##### Infographics / Brochures
+
+Which one uses a story?
+
+<https://piktochart.com/blog/infographic-examples/>
+
+![](images/stroke-infographic.png){fig-alt="infographic with facts about strokes" fig-align="center" width="422"}
+
+![](images/shoe-infographic.png){fig-alt="process infographic showing 3 steps to create a shoe" fig-align="center"}
+
+##### Video Games
+
+Concrete Genie
+
+Empathy, Grief / Mental Health
+
+![](images/concrete-genie.png){fig-alt="image of teenage hero looking at live mural of a creature"}
+
+{{< video https://youtu.be/SoIf3HNI-DQ >}}
+
+Student Resources for creating video games
+
+<https://gamesforchange.org/studentchallenge/>
+
+##### Your Project
+
+## PROBLEM / ISSUE   – \>   BEHAVIOR CHANGE   – \>   STORY PLAN
+
+####

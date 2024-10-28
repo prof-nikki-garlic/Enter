@@ -1,0 +1,800 @@
+---
+title: "Intro to Public Speaking"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    smooth-scroll: true
+    link-external-newwindow: true
+---
+
+# August 22, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Update on Canvas
+
+-   Chapter 1 Textbook Overview
+
+-   Meet with Me
+
+### Update on Canvas
+
+The Canvas site is live and the survey is ready.
+
+### Chapter 1 Textbook Overview
+
+-   Features of public speaking
+
+    -   "Enlarged conversation"
+
+        -   Purposeful
+
+        -   Organized
+
+        -   Well-Researched
+
+    -   Face-to-face, perhaps enhanced by media
+
+-   Anxiety about public speaking
+
+    -   Misperceptions
+
+    -   Fear of failure at speaking
+
+    -   Fear of rejection of your ideas
+
+-   Transactional Model of Communication
+
+![Transactional Model Image](images/TransactionalModel.png)
+
+[**Video Explanation**](https://www.youtube.com/watch?v=nHDfF395BRk "Prof. T. Kigvamasudvashti, e-Learning Seattle Central College")
+
+[![Prof. Kigvamasudvashti Explains Transactional Model](images/Transactional%20Model%20Video.png){fig-alt="thumbnail of YouTube video"}](https://www.youtube.com/watch?v=nHDfF395BRk)
+
+# August 27, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review of Survey and Meet with Me Data
+
+-   Chapter 1 Textbook Overview (contd.)
+
+### Review of Survey and Meet with Me Data
+
+-   75% somewhat familiar with the subject matter of the course
+
+-   areas of interest/concern:
+
+    -   how to focus
+
+    -   how to avoid using filler words
+
+    -   how to manage anxiety
+
+    -   how to use techniques in professional contexts, including interviews
+
+### Chapter 1 Textbook Overview (contd.)
+
+-   Anxiety
+
+    -   Preparation:
+
+        -   Mental
+
+        -   Physical
+
+        -   Contextual (Venue)
+
+        -   Speech
+
+-   <div>
+
+    [![](images/Amy%20Cuddy%20fake%20it%20until%20you%20become%20it.png)](https://www.youtube.com/watch?v=ORUCy-IYklc)
+
+    </div>
+
+-   Review of transactional model of communication
+
+    -   Pictionary Game
+
+# August 29, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Syllabus Updates: September 11
+
+-   Ch. 2 Audience Analysis
+
+-   Group Activity
+
+-   Ch. 2 Listening Skills
+
+-   Tip of the Week
+
+### Audience Analysis
+
+-   Why does the speaker's relationship to the audience matter?
+
+#### Demographics
+
+-   How might the audience's demographics influence how we speak to them?
+
+-   generalization v. stereotype v. totalization
+
+    -   generalization: "people in that group *tend* to jump to conclusions"
+
+    -   stereotype: "*that person* jumps to conclusions"
+
+    -   totalization: "*all they do* is jump to conclusions"
+
+#### Psychographic Characteristics
+
+-   audience members' inner **attitudes**, **beliefs**, **needs**, and **values**
+
+    -   Which is which?
+
+        -   statements a person holds true
+
+        -   important deficiencies that a person is motivated to fill
+
+        -   goals that a person strives for
+
+        -   a person's negative or positive reaction to something or someone
+
+#### Contextual Factors
+
+-   time, length of speech, size of audience, and setting
+
+### Group Activity
+
+-   2 groups (A and B, 10-11 per group)
+
+-   Sojourner Truth's speech
+
+    [Video: "Ain't I A Woman"](https://whyy.pbslearningmedia.org/resource/sojourner-truth-know-ohio-video/wviz-newsdepth-know-ohio/)
+
+    [Sojourner Truth's Most Famous Speech](https://blogs.loc.gov/headlinesandheroes/2021/04/sojourner-truths-most-famous-speech/){.uri}
+
+    -   Google: "loc.gov sojourner truth most famous speech"
+
+    -   How might her thoughts about the audience have influenced Gage's recounted version of the speech?
+
+### Listening Skills
+
+-   Types of listening
+
+    [![](images/types_of_listening.png)](https://youtu.be/22gzvSindTU)
+
+-   What types of speeches are these listening types most useful for?
+
+    -   Appreciative
+
+    -   Empathetic
+
+    -   Comprehensive
+
+    -   Critical
+
+### Tip of the Week
+
+-   To reduce speech anxiety, try re-framing nervousness as excitement by saying "I am excited" out loud before the speech.
+
+    [Get Excited: Reappraising Pre-Performance Anxiety as Excitement](https://www.hbs.edu/faculty/Pages/item.aspx?num=45869)
+
+    -   Link: <https://www.hbs.edu/faculty/Pages/item.aspx?num=45869>
+
+# September 3, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review Tip of the Week
+
+-   Thursday, September 5 Online
+
+-   Ch. 3 Speech Ethics
+
+### Speech Ethics
+
+#### Ethical Frameworks
+
+-   Rule-based
+-   Value-based
+    -   What are your personal speech values? (5 minutes - write and share)
+-   Outcome-based
+
+#### Civility across Cultures
+
+-   What is civility?
+
+    ::: callout-note
+    ## "What does 'civility' mean? It certainly means avoiding the use of swear words and other inflammatory language. It means treating opponents--even those you staunchly disagree with -- with respect. It means listening to them, and seriously thinking about what they have to say before one either rejects it or accepts it. It means treating people the way you want to be treated--even IF they don't treat you that way in return."
+
+    Heidi and Guy M. Burgess, blog post, <https://www.beyondintractability.org/ttdth/civility>
+    :::
+
+-   Other contexts:
+
+    -   Legal contexts - US Courts - <https://www.uscourts.gov/educational-resources/educational-activities/practicing-language-civility-civil-discourse-and>
+
+    -   Chinese press conferences - Ministry of Foreign Affairs - <https://jefferson.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_crossref_primary_10_1016_j_dcm_2020_100428&context=PC&vid=01TJU_INST:01TJU_EastFalls&lang=en&search_scope=EastFallsALL&adaptor=Primo%20Central&tab=Everything&query=any,contains,A%20discursive%20approach%20to%20disagreements%20expressed%20by%20Chinese%20spokespersons%20during%20press%20conferences>
+
+        -   negative tone based on moral values of sincerity (诚/chéng) and frankness (实/shí)
+
+        -   collective stance in response to accusation by French Foreign Ministry that China is unfairly treating Canadian nationals in custody
+
+            ::: callout-note
+            ## "As to the relevant French statement you mentioned, we firmly reject and oppose it. …… I cannot understand why the French side issued such a statement and why it is speaking on behalf of Canadian nationals. This has left a very bad impression on the Chinese people: France only cares for Canadian people and does not care for Chinese people."
+
+            Mao and Zhao, 2020, journal article on the discursive approaches of Ministry of Foreign Affairs of the People's Republic of China
+            :::
+
+#### Plaigarism
+
+-   General v. specific ideas
+
+-   Jefferson's Policy - <https://www.jefferson.edu/life-at-jefferson/handbooks/policies/undergraduate-policies/academic-integrity.html>
+
+### 
+
+# September 10, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review Discussion Post
+
+-   Thursday, September 12 Online
+
+-   Ch. 5 Researching Speeches
+
+### Researching Speeches
+
+-   Using your discussion post topic
+
+#### Researching Your Audience
+
+-   Survey
+
+1.  What are your feelings about semi-automatic weapons?
+
+2.  What do you find most confusing about school shooting policies?
+
+    a\. the role of the police
+
+    b\. teacher's responsibilities
+
+    c\. what student's should do when they hear a gunshot
+
+    d\. other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Activity: Create 3-question survey and ask two students**
+
+-   Interviews
+
+    -   Who do you interview?
+
+    -   Benefits?
+
+    -   Limitations?
+
+#### Researching Your Topic
+
+-   Types of sources (primary v. secondary)
+
+-   Library materials
+
+    -   Periodicals (e.g., magazines, journals, newspapers)
+
+    -   Databases
+
+    -   Peer-reviewed journals
+
+    -   Search illustration
+
+-   Internet research
+
+    -   Relevance and Scope
+
+    -   Source Verification
+
+        -   Go upstream
+
+        -   Read laterally
+
+        -   Circle back
+
+-   Tracking sources
+
+    -   Spreadsheet
+
+    -   Notecards
+
+    -   Notes document
+
+# September 17, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review and Questions
+
+-   Organizing Speeches
+
+-   Outlining Speeches
+
+### Organizing speeches 
+
+-   3 to 5 points to support your speech 
+
+-   Grouping exercise: place one item in front of you
+
+-   Ways of grouping support points
+
+-   Transitions (connective statements)
+
+-   Video speech: which did the speaker use?
+
+TED talk
+
+https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story
+
+ 
+
+### Outlining speeches
+
+-   Preparation outline v. speaking notes
+
+-   Outlining exercise: organize specific purposes ( p. 115)
+
+-   Practice your topic: purpose, support points, and organization
+
+# September 19, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Review and Questions
+
+-   Introductions
+
+-   Conclusions
+
+-   Speech Writing Practice
+
+Emma Gonzalez - March for Our Lives : https://www.youtube.com/watch?v=u46HzTGVQhg
+
+### Introductions
+
+-   Types of introductions
+
+-   Illustrations
+
+    Danger of a Single Story: https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story
+
+    John Lewis: https://www.youtube.com/watch?v=4HkrL0L62e0
+
+### Conclusions
+
+-   Types of conclusions
+
+-   Illustrations
+
+    Brene Brown: https://www.youtube.com/watch?v=5vphih0pa1A
+
+    George Bush: https://www.history.com/speeches/george-w-bush-declares-mission-accomplished
+
+# September 24, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Talk about Exam
+
+-   Presentation Aids
+
+-   Language
+
+-   Exam Questions Practice
+
+### Talk about Exam
+
+-   Take home exam - open notes - via Canvas
+
+-   Practice Quesitons in class
+
+-   Due Saturday at 11:59 pm
+
+### Presentation Aids
+
+-   Why use visuals?
+
+    -   grab attention, clarify, or explain
+
+-   How use visuals?
+
+    -   simple and straightforward
+
+    -   clarify purpose for listeners
+
+-   Slides
+
+    -   consistent themes
+
+    -   little to no text
+
+    -   recommended software:  Canva, Prezi, PowerPoint (Google Slides downloads at .ppt)
+
+        ![](images/prezi-womens-day.png)
+
+        Prezi: <https://prezi.com/gallery/>
+
+    -   accessibility
+
+        -   Example: dyslexia <https://support.microsoft.com/en-us/office/video-design-slides-for-people-with-dyslexia-a2158953-84d7-4894-8f6c-1c9968709041>
+
+    <!-- -->
+
+    -   Garr Reynold's Slide Tips <https://www.garrreynolds.com/tips>
+
+-   Video and Audio Clips
+
+    -   video / audio up to 30 seconds
+
+-   Demonstratives
+
+    -   make purpose clear ahead of time
+
+### Language (Ch 10)
+
+-   rhetoric / framing 
+
+    -   Examples: pro-*choice*", "alternative *lifestyle*", "second amendment *right*"
+
+-   rhetorical strategies
+
+    -   in-class exercise pp. 214-15
+
+    -   choose one and write on the board
+
+-   colloquial v. professional language
+
+    -   terms of art
+
+    -   slang
+
+-   abstract v. concrete (specificity)
+
+     - "unjust" or "violated the right to free speech"
+
+-   difficulty-level: 8th grade English, unless professional context
+
+-   inclusive language
+
+    -   disability:  people-first or not?
+
+    -   gender
+
+    -   race
+
+    -   How would people in that community prefer to be referred to?
+
+-   define terms as needed
+
+Exam Practice 
+
+-   Practice Questions
+
+    -   (T/F) Conducting surveys of the audience while preparing a speech can help the speaker develop an in-depth understanding of the audience's goals, interests, and communication preferences.
+
+    -   Fill in the blank: \_\_\_\_\_\_\_\_\_ questions can be used in introductions to pique an audience's interests.
+
+    -   Which of these are strategies for source verification in internet research? (choose all that apply)
+
+        -   Going upstream
+
+        -   Confirming through AI
+
+        -   Reading laterally
+
+        -   Circling back
+
+# September 26, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Rhetorical devices review
+
+-   Reminder about Exam
+
+-   Exam Questions Practice
+
+-   Tip of the Week
+
+-   Review Q & A
+
+### Rhetorical Devices Review
+
+-   Anaphora (beginning sentences with the same word / phrase)
+
+    ::: callout-note
+    ## "Let freedom ring from the mighty mountains of New York.
+
+    Let freedom ring from the heightening Alleghenies of Pennsylvania.
+
+    Let freedom ring from the snow-capped Rockies of Colorado.
+
+    Let freedom ring from the curvaceous slopes of California."
+
+    *Martin Luther King, I have a dream speech*
+    :::
+
+-   Assonance (repeated vowel sounds)
+
+    "wearing *lights* at *night* gets you home alr*ight*"
+
+-   Irony (signifying the opposite through language)
+
+{{< video https://www.youtube.com/watch?v=Rg5wxMQLU2A >}}
+
+### Reminder about Exam
+
+-   Take home exam - open book and notes - via Canvas
+
+![](images/102-exam-instructions.png)
+
+-   Worth 200 points (20% of grade)
+
+    -   35 multiple choice \* 4 points each (140 points total)
+
+    -   2 speech analyses \* 30 points (60 points total)
+
+-   Opens *6 pm today*; Due **Saturday at 11:59 pm**
+
+### Practice Exam Questions
+
+-   Why is it useful to use language with imagery in speeches? (Choose one.) (Hint: p. 211, textbook)
+
+    (a) it invokes the listener's senses
+
+    (b) it sounds better than non-literal language
+
+    (c) it is informative
+
+    (d) it is inspirational
+
+-   Which of these are *ethical frameworks* we discussed in class? (Choose all that apply.)
+
+```         
+(a)  Rule-based
+
+(b)  Value-based
+
+(c)  Experience-based
+
+(d)  Outcome-based
+```
+
+-   Speech Analysis Practice
+
+    Garr Reynolds - Lessons from the Bamboo
+
+    ![](images/bamboo-speech.png)
+
+    <https://www.youtube.com/watch?v=9g8T8MsFIp0>
+
+    ```         
+    - What introduction strategy(-ies)?
+    - Structure?
+    - Conclusion?
+    - Use of presentation slides?
+    - Other thoughts / reactions?
+    ```
+
+### Tip of the Week
+
+Join Toastmasters or a similar speaking club
+
+![](images/toastmaster-duck.png)
+
+-   Worldwide website https://www.toastmasters.org
+
+-   Local Philadelphia website and meeting 1st and 3rd Thursdays, 6:45 - 9 pm (online / in-person) https://www.philadelphiasfirsttoastmasters.com
+
+### Review Q & A
+
+-   Ask me any questions about course content
+
+------------------------------------------------------------------------
+
+# October 1, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Exam Discussion
+
+-   Delivery
+
+-   Informative Speeches
+
+-   Practice
+
+### Delivery
+
+-   Presenting Yourself Well
+
+    -   clothes, grooming
+
+        -   Steve Martin's all white suit ![](images/steve-martin-suit.png)
+
+    -   eye contact - making (faking) a connection
+
+        -   choose one person
+        -   skip around to several people
+        -   disclose disability?
+
+    -   confidence
+
+        -   posture
+        -   stance
+        -   projecting voice
+
+        Tips from a singer:
+
+    -   
+
+        {{< video https://www.youtube.com/watch?v=3Rp2_FDLnPM >}}
+
+-   Impromptu Speaking
+
+    1.  give yourself time to think
+
+        -   take a sip of water
+        -   smile / laugh if appropriate
+        -   ask to repeat / clarify ("in what way?")
+
+    2.  decide on main point you'd like to make
+
+    3.  talk *slowly*
+
+    4.  use numeric structure, if possible, to guide listeners and remind yourself
+
+        -   "two goals in mind ..."
+
+        -   "three parts of my plan ..."
+
+### Informative Speeches
+
+-   informative v. persuasive
+
+-   outline format walkthrough (pp. 264-66)
+
+### Practice
+
+#### Example - gun control
+
+1.  audience research
+
+2.  informative topic selection
+
+3.  using 3 to 5 supporting points
+
+4.  introduction and conclusion
+
+#### Your speech
+
+# October 3, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Informative Speeches (contd.)
+
+-   Preparing Your Speech
+
+### Informative Speeches
+
+-   Guest Speaker
+
+    -   Pastor Jonathan Leath
+
+-   Recorded Example
+
+{{< video https://www.youtube.com/watch?v=iuYlGRnC7J8>}}
+
+### Preparing Your Speech
+
+1.  audience research
+
+2.  informative topic selection
+
+3.  **using 3 to 5 supporting points**
+
+4.  introduction and conclusion
+
+# October 8, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Review Speech Outline
+
+-   Speech Practice
+
+### Review Speech Outline
+
+-   Textbook, pp. 264-66
+
+### Speech Practice
+
+-   Walkthroughs
+
+# October 10, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Review Speech Outline
+
+-   Speech Practice
+
+-   Student Speech on Voting Registration
+
+# October 10, 2024 (Thursday)
+
+## Schedule for Today
+
+-   Exam Review
+
+-   Review Informative Speech Outline Assignment
+
+-   Review Informative Speech Guidelines and Schedule
+
+-   Speech Practice in Groups
+
+### Exam Review
+
+-   Canvas Grading Glitch
+
+-   Totalizing v. stereotype
+
+-   Values question
+
+### Review Speech Outline Assignment
+
+-   Example at Textbook, pp. 264-66
+
+### Review Speech Guidelines and Schedule
+
+#### Guidelines
+
+-   Structure
+
+    -   Introduction memorized
+
+    -   Body not memorized (3 to 5 points with evidence)
+
+    -   Conclusion memorized
+
+-   Length: 5 to 7 minutes long
+
+#### Speech Dates
+
+-   Thursday, October 17th - Group A
+
+-   Tuesday, October 22nd - Group B
+
+-   While one group presents, the other practices
+
+### Speech Practice in Groups
+
+# October 22, 2024 (Tuesday)
+
+## Schedule for Today
+
+-   Syllabus Change Discussion
+
+-   Group A Speeches (Contd.)
+
+-   Group B Speeches
+
+### Syllabus Change Discussion
+
+-   Office Hours by appointment, in person or Zoom
+
+-   Cut Entertaining or Persuasive speeches?
+
+### Speeches

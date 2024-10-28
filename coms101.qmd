@@ -1,0 +1,1069 @@
+---
+title: "Intro to Comm and Media: Lecture Notes
+        Prof. Garlic, Fall 2024"
+format:
+  html:
+    toc: true
+    embed-resources: true
+    smooth-scroll: true
+    link-external-newwindow: true
+---
+
+# August 21, 2024 (Wednesday)
+
+## Schedule for Today
+
+-   Update on Canvas
+
+-   Chapter 1 Textbook Overview
+
+-   Meet with Me
+
+### Update on Canvas
+
+The Canvas site is live and will be updated with the survey and room number for my office hours.
+
+### Chapter 1 Textbook Overview
+
+-   Marshall McLuhan - *The Medium is the Message*
+
+    -   Bio <https://www.marshallmcluhan.com/biography/>
+
+    -   Video in Textbook
+
+-   Definitions
+
+    -   mass
+
+    -   medium / media
+
+    -   culture
+
+        -   shared values, attitudes, beliefs, and practices of a social group, organization, or institution
+
+    -   pop culture
+
+        -   media, products, and attitudes considered to be part of the everyday life for the mainstream of a given culture
+
+-   Historical perspective of mass media
+
+    -   <https://prezi.com/-ibd5ojx6ssd/historical-perspective-of-mass-media/>
+
+# August 26, 2024 (Monday)
+
+## Schedule for Today
+
+-   Review of Survey Results
+
+-   Newspaper Announcement
+
+-   Chapter 1 Textbook Overview (contd.)
+
+-   Media Effects Activity
+
+### Review of Survey Results
+
+-   Tech brought to class
+
+    -   88% laptops
+
+    -   12% mobile phones
+
+### Chapter 1 Textbook Overview (contd.)
+
+-   Convergence
+
+    -   Distinct technologies –\> sharing of content, tasks, and resources
+        -   Examples?
+    -   Niche communication relics
+        -   Polaroid cameras
+
+            ![Polaroid camera circa 1980s](images/old-polariod.png)
+
+        -   new Polaroid
+
+            ![Polaroid camera circa 2020s](images/new_polariod.jpeg)
+    -   Individuals - passive consumption to multitasking
+        -   Harmful or maybe not?
+
+-   Shaping Culture
+
+    -   tastemakers / influencers - introducing new ideas, music, videos, products
+
+    -   gatekeepers - what becomes public
+
+-   Media Literacy
+
+    -   Five Key Questions of Media Literacy <https://www.medialit.org/sites/default/files/14B_CCKQPoster+5essays.pdf>
+
+### Media Effects Activity
+
+-   How does media shape individual beliefs and behavior?
+
+-   Consider media form ("media is the massage") and content.
+
+# August 28, 2024 (Wednesday)
+
+## Schedule for Today
+
+-   Listening to Textbook Illustration (iPad/iPhone)
+
+-   WPHU Radio Announcement
+
+-   Media Effects Activity Review
+
+-   Chapter 2 Textbook Overview
+
+-   Student Media Clips Example
+
+### Listening to Textbook
+
+-   Voiceover <https://www.apple.com/accessibility/iphone/index.html#:~:text=VoiceOver%20is%20a%20revolutionary%20screen,with%20every%20built%E2%80%91in%20app.>
+
+### Chapter 2 Textbook Overview
+
+#### Media Effects
+
+##### What is a theory? *Idea(s) about why or how something happens.*
+
+##### Media Effects Theories
+
+-   How media affects us
+
+    -   Direct Effects
+
+    -   Two-Step Flow
+
+    -   Agenda Setting
+
+    -   Spiral of Silence
+
+    -   Cultivation Analysis (Mean World Syndrome)
+
+-   Why we are drawn to certain types of media
+
+    -   Uses and Gratifications
+
+-   How we interpret media
+
+    -   Symbolic Interaction
+
+    -   Media Logic
+
+#### Media Messages
+
+-   Objectivity and Bias in News
+
+-   Propaganda and Persuasion in Politics
+
+-   Stereotypes
+
+    Black Women in Media <https://www.youtube.com/watch?v=2teqoyPe3TU>
+
+-   Consumerism
+
+-   Visual Analysis
+
+    Top Fashion Trends <https://www.youtube.com/watch?v=m0IPlbYnLf8>
+
+    -   How many references to consumerism do you notice?
+
+    -   What other positive or negative effects might there be?
+
+### Student Media Clips
+
+# September 3, 2024 (Wednesday)
+
+## Schedule for Today
+
+-   Research as Art Competition (\$250 cash prize)
+
+-   Quiz Comments
+
+-   Student Media Clips
+
+-   Books
+
+-   Next Quiz and SMC Reminder
+
+### Research as Art Competition
+
+[![](images/43Depression-in-the-Postpartum-PeriodLaura_Moyer_bothlanguages1-scaled.jpg){fig-alt="image of women in India with phrase \"you are not alone\""}](https://nexus.jefferson.edu/science-and-technology/you-are-not-alone-an-interdisciplinary-effort-to-tackle-postpartum-depression/)
+
+-   Submit here: <https://jefferson.co1.qualtrics.com/jfe/form/SV_2gY6DXezMy8xwou>
+
+-   Deadline October 4, 2024
+
+### Student Media Clips
+
+#### Media stereotypes (Adriana)
+
+Mean Girls too gay
+
+<https://www.youtube.com/watch?v=bSmULnvv-Ig>
+
+#### 
+
+#### Two-Step flow media effects (Sean)
+
+Blake Griffin dunks
+
+![](images/giffin_dunks_over_kia.jpeg){fig-alt="basketball star jumping over car to dunk"}
+
+#### Direct effects 💉 (Kaci)
+
+Peacock show trailer
+
+lcvelslandd
+
+[https://www.tiktok.com/\@lcvelslandd/video/7401569226743500075?\_r=1&\_t=8pHFQHGNI34](https://www.tiktok.com/@lcvelslandd/video/7401569226743500075?_r=1&_t=8pHFQHGNI34)
+
+-   Passive or active acceptance?
+
+### Books
+
+Who reads/doesn't read books now?
+
+[![](images/pew-readers-2021.png){fig-alt="chart of non-book reader demographic groups"}](https://www.pewresearch.org/short-reads/2021/09/21/who-doesnt-read-books-in-america/ft_2021-09-21_nonbookreaders_01-png/)
+
+<https://www.pewresearch.org/short-reads/2021/09/21/who-doesnt-read-books-in-america/ft_2021-09-21_nonbookreaders_01-png/>
+
+#### History of books
+
+Egyptian papyrus
+
+[![](images/Padihorpara%20after%20conservation%202500px.jpg){fig-alt="photo of preserved papyrus of Book of the Dead"}](https://www.britishmuseum.org/blog/preserving-papyrus-caring-4000-year-old-documents)
+
+<https://www.britishmuseum.org/blog/preserving-papyrus-caring-4000-year-old-documents>
+
+Early Buddist Texts
+
+[![](images/sutra_buddist_covers.jpeg){fig-alt="ornate cover of early Buddist book"}](https://www.metmuseum.org/art/collection/search/40250)
+
+<https://www.metmuseum.org/art/collection/search/40250>
+
+The Codex and Beyond
+
+[![](images/what_makes_a_book_yt.png){fig-alt="screenshot of what makes a book a book video"}](https://www.youtube.com/watch?v=_YqYtdPUis4)
+
+<https://www.youtube.com/watch?v=_YqYtdPUis4>
+
+### 
+
+### Books Affecting Culture
+
+![](images/uncle_toms_cabin.jpg){fig-alt="book cover of Uncle Tom's Cabin"}
+
+<https://www.harrietbeecherstowecenter.org/harriet-beecher-stowe/uncle-toms-cabin/>
+
+![](images/pedagogy_oppressed.jpg){fig-alt="book cover for Pedagogy of the Oppressed"}
+
+<https://www.goodreads.com/book/show/72657.Pedagogy_of_the_Oppressed>
+
+![](images/girl_dragon_tattoo.jpg){fig-alt="book cover for The Girl with the Dragon Tattoo"}
+
+<https://www.amazon.co.uk/Girl-Dragon-Tattoo-Millennium-Book-ebook/dp/B00480O9L4/ref=sr_1_2?crid=1ZF7AI6ZS58VK&keywords=The+Girl+With+The+Dragon+Tattoo&qid=1655221570&s=books&sprefix=the+girl+with+the+dragon+tattoo+%2Cstripbooks%2C133&sr=1-2>
+
+### Copyright and Fair Use
+
+#### History
+
+-   Statute of Queen Ann (1710) - 14 years exclusive rights to book publishers
+
+-   U.S. Constitution Statutes
+
+    ::: callout-note
+    ## Article I, Section 8, Clause 8:
+
+    ## "\[The Congress shall have Power . . . \] To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
+    :::
+
+<https://constitution.congress.gov/browse/essay/artI-S8-C8-1/ALDE_00013060/>
+
+-   Statutes, e.g., Copyright Law of 1790
+
+#### Basic Definitions
+
+*Copyright:* Exclusive right to copy, distribute, and adapt
+
+*Public Domain:* public property (expired copyright or never covered0
+
+*Fair Use*
+
+-   criticism
+
+-   commentary
+
+-   news
+
+-   teaching
+
+-   research/scholarship
+
+#### Fair Use Learning Activity
+
+<https://www.arl.org/know-your-copyrights/>
+
+-   Groups of 3
+
+-   Click on 3 sections you find interesting
+
+# September 9, 2024 (Monday)
+
+## Schedule for Today
+
+-   Weekly Assignment Due Dates
+
+-   Student Media Clips
+
+-   Books (contd.)
+
+-   Newspapers
+
+### Weekly Assignment Due Dates
+
+Quizzes and SMCs now due by Sunday night each week
+
+### Student Media Clips
+
+Public Domain illustration
+
+-   film compilation (Joana)
+
+    ![](images/public_domain_films.png){fig-alt="screenshot of public domain YouTube film playlist"}
+
+    https://www.youtube.com/playlist?list=PLTYZuvjJPVnGYlXEiFujZFQNk6WMIp6u7
+
+Works that recently entered the public domain
+
+-   <https://blogs.loc.gov/copyright/2024/01/lifecycle-of-copyright-1928-works-in-the-public-domain/>
+
+Other sources for finding public domain materials
+
+-   <https://www.hathitrust.org>
+
+E-books
+
+-   Before the Coffee Gets Cold (Sanjay)
+
+[![](images/before_the_coffee.jpeg){fig-alt="cover for kindle version of book"}](https://www.amazon.com/Before-Coffee-Gets-Cold-Novel/dp/1335430997)
+
+\[![](images/ebook_the_lovers.png){fig-alt="page from kindle book"}\]
+
+### Book Formats
+
+-   Hardback
+
+-   Paperback
+
+-   E-books
+
+-   Audiobooks
+
+-   Differences / similarities / What would McLuhan say?
+
+### Newspapers
+
+-   Overview
+
+-   American Experience: Citizen Hearst
+
+[![](images/hearst_doc.png){fig-alt="thumbnail image of newspapers with superimposed photo of Hearst"}](https://www.pbs.org/wgbh/americanexperience/films/citizen-hearst/#part01)
+
+<https://www.pbs.org/wgbh/americanexperience/films/citizen-hearst/#part01>
+
+# September 16, 2024 (Monday)
+
+## Schedule for Today
+
+-   Newspapers Recap
+
+-   Student Media Clips
+
+-   Magazines
+
+### Newspapers Recap
+
+-   What stood out to you from Hearst's life?
+
+-   Where are newspapers going?
+
+### Student Media Clips
+
+-   Lady and the Trump (Jonathan)
+
+![](images/lady-trump.png){fig-alt="newspaper cover story of Donald Trump and Sarah Palin"}
+
+-   Jersey Evening Post (Emily)
+
+![](images/Jersey_online_newspaper.png)
+
+<https://jerseyeveningpost.com>
+
+### Magazines
+
+#### History
+
+-   Early history
+
+![](images/the_delineator_mag.jpeg){fig-alt="early fashion magazine with hand-drawn art"}
+
+The Delineator - Fashion Magazine
+
+<https://www.ebay.com/itm/305655624808?itmmeta=01J7XW9E73ZCS4T6271EC5M10C&hash=item472a7eb468:g:h80AAOSw6A9mhujG&amdata=enc%3AAQAJAAAAwMxmj%2BiGvOveHXEBClPb29jddVF7kHtaL2KUF0nta1MTiydsEkFlJn36DPtftCS9djOcffDGl9vdteQ8G2armqLuGo7e8TyePFXbeeKQ5Jax%2BdXeJI4yQL9SG2Il0CV3kSblE7X%2Fob2GmvQ7zOtBGJewJal2%2BDIT%2BGyFMwke2UlMSauSeIrPNDO4Fp7djHmJ7IA%2BPhRCpA4ZO6VabeToEwb8ixo0LdMSmDbtmCYjS8TggJw2jwWK1yZx2zNVl6MOcg%3D%3D%7Ctkp%3ABk9SR87jpby_ZA>
+
+-   Batman comics
+
+    <https://www.dc.com/blog/2019/03/19/batman-a-history-of-heroics-the-beginning>
+
+#### Businessweek Example
+
+-   Businessweek 1929 Cover
+
+    ![](images/businessweek_1929.jpeg)
+
+::: callout-note
+## “The Business Week always has a point of view, and usually a strong opinion, both of which it does not hesitate to express. And all the way through, we hope you will discover it is possible to write sanely and intelligently of business without being pompous or ponderous.”
+
+*Malcolm Muir, McGraw Hill (publisher)*
+:::
+
+-   Businessweek 1989 Cover - Gambling in Indian Casinos
+
+![](images/businessweek_1989.jpeg)
+
+-   Businessweek 2014 Cover - Ebola Virus
+
+![](images/ebola_is_coming_image.png)
+
+-   Role of advertising
+
+-   Magazines geared towards youth in the 80s and 90s
+
+    -   Tiger Beat Magazine
+
+        <https://www.ebay.com/itm/364975252947?_skw=tiger+beat+magazine+80s&itmmeta=01J7XWR94VA8BN0B77YRDQYVBR&hash=item54fa3865d3:g:JZgAAOSwKG5mfhbW&itmprp=enc%3AAQAJAAAA8HoV3kP08IDx%2BKZ9MfhVJKlHwXdFfPDkF4nLpVYq%2BnwcKsbmXVFvPEx5eR00Wo43s8QHUZOg3JuNv5i31Gv2otog%2FvUPTIFR1OX0OHNbQFGKcqNU2RQagZfM8W%2FXJ61GNoc5Q3NUhcR49Rawc5X%2BXdnP%2FqTraMPcDy7kWUT9jJo5pNxpXrl5eNbu6xsNlVZLrhOBYLyYIsYlvwDpQBhxI8d%2F1Gqhg9DNagjaseZfjKEozzPCvjynTsJJoarJmoEpfxp0wciVQs5wepWvZjh0%2F5TLDDdPQZkqvuv9M4tv2KuuvsGKp5r3f1KkGEonG1JtxA%3D%3D%7Ctkp%3ABk9SR76S4by_ZA>
+
+    -   Right On Magazine
+
+    <https://www.ebay.com/itm/356029603261?_skw=right+on+magazine&itmmeta=01J7XWNY326JHGRG7GH1BW4DQW&hash=item52e5049dbd:g:~KsAAOSw4Upmw7J9&amdata=enc%3AAQAJAAAA8Mxmj%2BiGvOveHXEBClPb29iqsQ9BAfpw1UENtkXMrO4Zp4QSE3Prhe5L9I1on5Lv7vnZ4TeVAWfaTeQdsQEWersxjTyCfy4tAQYDU1NJSXEdc266Z0hwdd3Hvq052YIVtO5Sy%2BTOHuR194PeTkEcXzfruzikW0pksOM%2F0IupQvCLfdymabyS3rr5%2BsQt34lxVaqUY9D0lK4l0mJc1zGtfUul%2FMfoFE6g0qq7bQg%2FhbikbujXdvev7RHrVDMOhMzkTSvNz5LjUArS--z3hEG8gfOd1coA%2FqczkH16hCVtcdbyGV%2BzsoA8CRWqdVIWzcx%2FPQ%3D%3D%7Ctkp%3ABk9SR8zh17y_ZA>
+
+<!-- -->
+
+-   Current day magazines - where are magazines going? print . . . online . . .
+
+![](images/greta-teenvogue-cover.png)
+
+<https://www.teenvogue.com/story/greta-thunberg-climate-strike-teen-vogue-special-issue-cover>
+
+-   Class project - editorialize a magazine
+    -   potential subjects: sports, fashion, news, finance, celebrity, relationships . . .
+    -   Select from:
+        -   news articles
+        -   short fiction
+        -   poetry
+        -   advertising
+    -   Format
+        -   print
+        -   online
+        -   both
+
+# September 18, 2024 (Wednesday)
+
+## Schedule for Today
+
+-   Quiz Review
+
+-   Magazines (contd.)
+
+-   Final Media Project
+
+### Quiz Review
+
+-   negative v. positive newspaper examples
+
+    -   Center for Integrity in News Reporting
+
+        ![](images/center_for_integrity_news.png)
+
+        <https://www.cfinr.org/awards>
+
+-   media bias: <https://www.allsides.com/media-bias>
+
+    -   Guardian example
+
+        <https://www.allsides.com/news-source/guardian>
+
+-   economic interests
+
+    -   non-profit news
+
+        ![logo for spotlight news](images/spotlight_news.png)
+
+        <https://www.spotlightpa.org/about/>
+
+![](images/propublica_news.png){fig-alt="logo and story from ProPublica news"}
+
+<https://www.propublica.org/article/new-york-city-guardianship-oversight-reform-hochul>
+
+-   Russian News on YouTube
+
+<https://www.youtube.com/hashtag/rtnews>
+
+### Magazines
+
+-   Editorialize a magazine class project report out - use whiteboards
+-   Speciality Publications
+    -   Professional Trade Publications
+
+        -   Backstage
+
+            ![](images/backstage_mag.jpg)
+
+        <https://www.backstage.com/>
+
+    -   Scholarly Journals
+
+        -   Journal of Communication
+
+    -   Religious Magazines
+
+        -   Christian Science Monitor
+
+    -   Political
+
+        -   The American Conservative
+
+    -   Hobbies / Special Interests
+
+        -   Architectural Digest
+
+            ![](images/arch_digest_mag.jpg)
+
+            <https://www.architecturaldigest.com/>
+-   Comic Books
+    -   Rise of Comic Book Culture
+
+        <https://www.youtube.com/watch?v=LlFIDuc07ok>
+
+### Final Media Project Overview
+
+-   Module - Final Media Project - Final Media Project
+
+# September 23, 2024 (Monday)
+
+### Schedule for Today
+
+-   Quiz Review
+
+-   Student Media Clips
+
+-   Music
+
+-   Research Logs - In-class practice
+
+### Quiz Review
+
+-   Newspaper v. magazine advertisements
+
+    -   The Globe newspaper example
+
+        <https://globemediagroup.ca/newspaper-advertising-specifications/>
+
+    -   Cosmopolitan
+
+        <https://advertising.hearstmagazines.com/brands/cosmopolitan>
+
+### Student Media Clips
+
+Pulp (Story-based) Magazine (Stella)
+
+![](images/pulp-magazine.png){fig-alt="pulp magazine cover with Hitchcock in catchy pose and with bright colors"}
+
+Images of Women (Aliya)
+
+![](images/mariah-body-shaming.png){fig-alt="magazine clipping of mariah carey in short skirt with negative body shaming commentary"}
+
+### Music
+
+#### U.S. Music History
+
+*History of American Music -* Interactive journalism
+
+-   <https://www.telegraph.co.uk/travel/discover-america/evolution-of-music/>
+
+    -   Mamie Smith early jazz recording
+
+        ![](images/mamie-smith-album.png)
+
+        <https://www.youtube.com/watch?v=UB-7TFdHRkA>
+
+-   Timeline and Genre Activity
+
+    -   What are some of your favorite genres?
+
+    -   Where do they fit in the timeline?
+
+#### Music Affecting Culture
+
+*Muscle Shoals* Documentary
+
+![](images/muscle-shoals.png)
+
+<https://www.youtube.com/watch?v=hKmGUIM1uAI> (5:48 to 29:42)
+
+-   Modern day examples?
+
+#### Music, Recording Technology, and Distribution
+
+-   From recording studios to streaming . . .
+
+### Research Logs
+
+![](images/sample-research-log-entries.png){fig-alt="spreadsheet with date, actiity, results, and time spent columns"}
+
+-   Communication / media concept?
+
+-   Media project type?
+
+# September 25, 2024 (Wednesday)
+
+### Schedule for Today
+
+-   Career Fair
+
+-   Music (contd.)
+
+-   Skill of the Week
+
+-   Research Logs - In-class practice
+
+### Career Fair
+
+![](images/career-fair.png)
+
+### Music
+
+#### Music, Recording Technology, and Distribution
+
+-   Vinyl -\> Cassettes -\> CDs -\> Napster -\> iTunes -\> Spotify
+
+Record player
+
+![](images/record-player.png)
+
+Cassete player and boom box
+
+![](images/cassette-player.png)
+
+![](images/boom-box.png)
+
+Napster
+
+![](images/napster.png)
+
+iPod Shuffle
+
+![](images/ipod-shuffle.png)
+
+Streaming Services
+
+-   From recording studios to streaming
+
+    -   Large and Indie Record Companies
+
+        -   Universal
+
+        -   Sony
+
+        -   Warner
+
+        -   65% all music sold by 2020
+
+    -   Indie and Vanity Labels
+
+-   How did artists make money, and how do they make it today?
+
+-   Music, celebrity, and social media
+
+{{< video https://www.youtube.com/watch?v=oYC2BL5J4cY >}}
+
+```         
+-  How has social media changed music appreciation?
+```
+
+### Skill of the Week
+
+-   Interactive / Data Journalism
+
+    **flourish** <https://flourish.studio>
+
+    interactive charts: <https://flourish.studio/examples/>
+
+    {{< video https://www.youtube.com/watch?v=r6TbcZgYMvY >}}
+
+### Research Logs
+
+![](images/sample-research-log-entries.png){fig-alt="spreadsheet with date, actiity, results, and time spent columns"}
+
+-   Communication / media concept?
+
+-   Media project type?
+
+# September 30, 2024 (Monday)
+
+### Schedule for Today
+
+-   Career Fair Reflections
+
+-   Student Media Clips
+
+-   Radio
+
+-   Talk about Midterm
+
+### Career Fair Reflections
+
+-   Did anyone attend? Thoughts?
+
+### Student Media Clips
+
+-   Cajun French Language Music from New Orleans (Carly)
+
+{{< video https://youtu.be/AF3CsxICZI4?si=4sHXDha5xeblJBlj>}}
+
+![](images/jourdan-thibodeaux.png)
+
+<https://www.valcourrecords.com/cds/jourdan-thibodeaux-et-les-rdailleurs-boue-boucane-et-bouteilles>
+
+-   Vinyl in Urban Outfitters (Kyle)
+
+![](images/urban-outfitters-vinyl.png)
+
+<https://www.urbanoutfitters.com/shop/hybrid/crosley-c100bt-bluetooth-record-player?color=001&type=REGULAR&size=ONE+SIZE&quantity=1>
+
+### Radio
+
+-   History
+
+{{< video https://www.youtube.com/watch?v=FexDxf5GLTw>}}
+
+-   Personal v. mass communication
+
+![](images/ham-radio.jpeg)
+
+War of the Worlds
+
+{{< video https://www.youtube.com/watch?v=OzC3Fg_rRJM>}}
+
+-   Radio v. Newspaper Coverage
+
+    -   Hindenberg Disaster
+
+    In Class Activity: **Find Newspaper Article**
+
+    For example: <https://blog.britishnewspaperarchive.co.uk/2022/04/14/the-hindenburg-disaster-as-told-by-our-newspapers/>
+
+    Listen to Live Radio Coverage:
+
+    <https://www.youtube.com/watch?v=0Ad9tholMEM>
+
+    What's different about the two mediums?
+
+-   Radio Content
+
+    -   What types of content have you listened to?
+
+    -   Public v. private radio
+
+-   Podcasting and Radio
+
+![](images/podcasting.png)
+
+### Talk about Midterm
+
+-   Review next Monday
+
+-   Midterm in class next Wednesday
+
+# October 2, 2024 (Wednesday)
+
+### Schedule for Today
+
+-   Radio (contd.)
+
+-   From Radio to Podcasts
+
+-   Skill of the Week
+
+-   Quizzes and Midterm
+
+### Radio
+
+-   Radio ownership: how does it affect content?
+
+-   Audience Measurement and Targeted Marketing
+
+    -   How does radio compare to other media in helping build brands?
+
+    Nielsen Ratings
+
+    ![](images/radio-nielsen.png)
+
+    <https://www.nielsen.com/insights/2024/insights-2024-how-to-plan-with-outcomes-in-mind/>
+
+### From Radio to Podcasts
+
+-   *This American Life*
+
+![](images/ira-glass.png)
+
+<https://www.kunc.org/news/2023-07-21/ira-glass-talks-about-what-hes-learned-from-decades-of-this-american-life> (0:28 - 03:32)
+
+## Designing a podcast
+
+```         
+- How are podcasts different than radio?
+
+- Example:  Serial Podcast
+```
+
+![](images/serial.png)
+
+![](images/serial-season1.png)
+
+<https://serialpodcast.org/season-one>
+
+```         
+- Real-world effect of podcasts
+```
+
+![](images/syed-conviction-reinstated.png)
+
+## Podcast Brainstorming
+
+```         
+-  What would you create?
+```
+
+## Recording a podcast
+
+-   Media production studio
+
+-   Radio station (WPXU)
+
+    -   Kanbar, 3rd floor
+    -   Corinn Mabry
+    -   Sofia Corcoran
+
+### Skill of the Week
+
+Creating a website
+
+-   Wix <https://www.wix.com>
+
+    ![](images/wix.png)
+
+-   GoDaddy <https://www.godaddy.com/websites/website-builder>
+
+    ![](images/godaddy.png)
+
+-   Wordpress <https://wordpress.com/free/>
+
+    ![](images/wordpress.png)
+
+-   Quarto Pub <https://quartopub.com>
+
+    ![](images/quarto-pub.png)
+
+### Quizzes and Midterm
+
+```         
+-  No quiz this week
+
+-  No longer each week - check syllabus
+
+-  Midterm review Monday
+```
+
+# October 7, 2024 (Monday)
+
+### Schedule for Today
+
+-   Student Media Clips (SMCs)
+
+-   Midterm Review
+
+#### Student Media Clips
+
+-   Sirius XM Radio (Ryan)
+
+![](images/siriusxm.png){fig-alt="screenshot of sirius xm website with promo"}
+
+https://www.siriusxm.com/
+
+Radio v. Podcasts
+
+![](images/iHeartRadio-sweepstakes.png){fig-alt="sweepstakes offers on iHeartRadio website"}
+
+<https://news.iheart.com/promotions/>
+
+# October 9, 2024 (Wednesday)
+
+### Schedule for Today
+
+-   Midterm Exam - Canvas - Modules - Scroll down
+
+-   Starts 2:05 pm
+
+-   Ends 3:15 pm
+
+-   You may leave after you submit your exam
+
+# October 21, 2024 (Monday)
+
+### Schedule for Today
+
+-   Syllabus Changes
+
+-   zines (final project option)
+
+-   Student Media Clips (SMCs)
+
+-   Movies / Film
+
+### Syllabus Changes
+
+-   Office hours by appointment
+
+-   Extra Movies/Film time
+
+-   Student Presentation clarification
+
+### zines (final project option)
+
+becoming undisciplined
+
+![](images/becoming-zine.png){fig-alt="screenshot of cover of zine iwth images of Black women"}
+
+<https://escholarship.org/uc/item/7c16q31w>
+
+### Student Media Clips and Discussion
+
+-   Good Morning Vietnam (Gia)
+
+![](images/good-morning-vietnam.png){fig-alt="collage of images from film and poster"}
+
+-   The Blind Side (Sean)
+
+![](images/blind-side.png){fig-alt="still from Blind Side film with mother yelling at son in football uniform"}
+
+Trailer
+
+{{< video https://www.youtube.com/watch?v=gvqj_Tk_kuM >}}
+
+#### Movies / Films
+
+-   History of Film
+
+{{< video https://www.youtube.com/watch?v=utntGgcsZWI >}}
+
+-   Within our Gates (Micheaux)
+
+{{< video https://www.youtube.com/watch?v=gtwrCto9az0 >}}
+
+-   National Film Registry
+
+![](images/film-registry.png){fig-alt="screenshot of film registry website"}
+
+<https://www.loc.gov/programs/national-film-preservation-board/film-registry/>
+
+-   Activity: Nominate a film for inclusion in the registry
+
+    -   What makes a film worthy of inclusion?
+
+# October 23, 2024 (Wednesday)
+
+### Schedule for Today
+
+-   People / Power Media Fest
+
+-   Movies / Film (contd.)
+
+-   Skill of the Week
+
+### People / Power Media Fest
+
+-   This Saturday, 11 am to 5 pm
+
+-   Free admission if volunteer
+
+-   <https://www.ppmfest.org/forum>
+
+![](images/people-power-media-fest.png){fig-alt="logo for people power media fest"}
+
+![](images/power-media.png){fig-alt="description of activities at power media fest"}
+
+### Movies (Film)
+
+-   Medium is the Message (Massage)
+
+-   Movies and Culture
+
+-   Future of Film
+
+#### Medium is the Message (Massage)
+
+-   How is film different from other mass communication mediums?
+
+    -   Radio
+
+    -   Television
+
+    -   Social media
+
+-   How does film encourage us to use our brains differently?
+
+#### Movies and Culture
+
+-   Representing life
+
+-   Encouraging discussion of controversial issues
+
+#### Future of Film
+
+-   Generative AI
+
+{{< video https://youtu.be/pp4jkEtUAdg?si=2E5OqFRoMapQE9Dp >}}
+
+<https://youtu.be/pp4jkEtUAdg?si=2E5OqFRoMapQE9Dp>
+
+### Skill of the Week
+
+#### Video Editing
+
+-   Editing as Storytelling
+
+-   Paper Editing
+
+    -   In-class Exercise
+
+-   Visual Editing
+
+    -   Adobe Premiere Pro
+
+    -   Apple Movie
+
+    -   Canva
+
+Basic Workflow
+
+![](images/adobe-premiere.png){fig-alt="screenshot adobe premiere pro editing screen"}
+
+[https://helpx.adobe.com/premiere-pro/using/basic-workflow.htmlhttps://helpx.adobe.com/premiere-pro/using/basic-workflow.html](https://helpx.adobe.com/premiere-pro/using/basic-workflow.html)
+
+{{< video https://youtu.be/7pqYh4pBehQ?si=E_tZE8MPtP4WdynQ >}}
+
+<https://www.canva.com/create/tiktok-videos/>
+
+###

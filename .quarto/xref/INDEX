@@ -1,0 +1,19 @@
+{
+  "index.qmd": {
+    "index.html": "2e2fd358"
+  },
+  "about.qmd": {
+    "about.html": "7f7e1256"
+  },
+  "coms101.qmd": {
+    "coms101.html": "daf355db",
+    "coms101.typ": "78909ff9",
+    "coms101.docx": "a8e85a89"
+  },
+  "coms102.qmd": {
+    "coms102.html": "d2c701f3"
+  },
+  "isem302.qmd": {
+    "isem302.html": "1bd0c947"
+  }
+}
