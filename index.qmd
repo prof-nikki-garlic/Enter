@@ -5,5 +5,5 @@ title: "Lecture Notes"
 |                                             |
 |---------------------------------------------|
 | [COMS101] (coms101.qmd) |
-| [Intro to Public Speaking] (coms102.qmd)         |
-| [Telling Stories, Selling Stories] (isem302.qmd) |
+| [COMS102] (coms102.qmd)         |
+| [ISEM302] (isem302.qmd) |
