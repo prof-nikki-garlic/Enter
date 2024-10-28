@@ -4,6 +4,6 @@ title: "Lecture Notes"
 
 |                                             |
 |---------------------------------------------|
-| Intro to Communication and Media (COMS 101) |
+| [Intro to Communication and Media (COMS 101)] (coms101.qmd) |
 | Intro to Public Speaking (COMS 102)         |
 | Telling Stories, Selling Stories (ISEM 302) |
