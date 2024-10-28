@@ -623,7 +623,7 @@ PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
 #### Audience Measurement
 
 | ***Media Form*** | ***Ratings Provider*** | ***Description*** |
-|------------------|-------------------|-----------------------------------|
+|------------------|-------------------|----------------------------------|
 | **Books** | Goodreads | User-generated ratings and reviews for books. |
 |  | NY Times Best Sellers | "Authoritatively ranked lists of books sold in the United States, sorted by format and genre." |
 | **Podcasts** | Podchaser | Ratings and reviews specific to podcast episodes and shows. |
@@ -663,7 +663,7 @@ Ratings Exercise:
 
 The P Process
 
-![**The P Process** ](images/p-process.png){fig-alt="large p with steps of process"}
+![**The P Process**](images/p-process.png){fig-alt="large p with steps of process"}
 
 1.  Inquire
 2.  Design Strategy
@@ -702,7 +702,7 @@ PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
 ### Final Project Workshop
 
 ::: callout-note
-## PROBLEM / ISSUE   – \>   BEHAVIOR CHANGE   – \>   STORY PLAN
+## PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
 :::
 
 #### Examples
@@ -751,6 +751,6 @@ Student Resources for creating video games
 
 ##### Your Project
 
-## PROBLEM / ISSUE   – \>   BEHAVIOR CHANGE   – \>   STORY PLAN
+## PROBLEM / ISSUE – \> BEHAVIOR CHANGE – \> STORY PLAN
 
 ####
